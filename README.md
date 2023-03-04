@@ -1,4 +1,4 @@
-# MSBA_Team13_TP1
+# MSBA Team13 TP1 BUAD5082 ML2
 Team 13's R and Python file for Team Presentation 1 in BUAD5082 Machine Learning II.
 
 10. This question relates to the College data set.
